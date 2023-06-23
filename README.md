@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/clairecha7/clairecha7/blob/main/gitclaire.png">
+</div>
+
 # 💫About Me :
 Hello there!
 I'm Claire 👨‍💻 an aspiring full stack developer driven by a passion for technology and a desire to continuously learn and grow. I am eager to collaborate with others and contribute to open-source projects to expand my knowledge and make a positive impact in the developer community. Let's connect!🤗
